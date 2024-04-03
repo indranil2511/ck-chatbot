@@ -1,0 +1,54 @@
+Services Summary
+Unless otherwise stated, the Google Workspace (formerly known as G Suite) services below are covered by the Google Workspace Services Schedule to the Google Cloud Master Agreement or other agreement under which Google agrees to provide the relevant services (“Google Workspace Agreement”). Certain services or editions below may be subject to Service Specific Terms that can be found at https://workspace.google.com/terms/service-terms/.
+Google Workspace Services:
+•	Core Services
+o	"Client-Side Encryption" allows an organization to use its own encryption keys to encrypt the applicable Customer Data input into certain Core Services, as described at https://support.google.com/a/answer/10741897 or a successor URL.
+o	"Cloud Identity Services" are as described at https://cloud.google.com/terms/identity/user-features.html or a successor URL.
+o	"Duet AI for Google Workspace" (“Duet AI”) allows End Users to use generative artificial intelligence features to help write content, organize files, visualize information, accelerate workflows, and have richer meetings.
+o	"Enterprise Data Regions" allows Administrators to apply data region policy settings to certain regions for all or a selected subset of End Users for certain primary data-at-rest (including backups) within Customer Data, as described at https://support.google.com/a/answer/9223653.
+o	"Gmail" enables Customers to send and receive email messages.
+o	"Google Calendar" enables End Users to manage personal, organizational, and team calendars.
+o	"Google Chat" enables End Users to communicate in real time through an enhanced chat messaging and group collaboration platform.
+o	"Google Cloud Search" provides End Users with search and assist capabilities for content within certain Core Services for Google Workspace and third party data sources (as applicable).
+o	"Google Contacts" allows End Users to import, store, and view contact information, and create personal groups of contacts that can be used to email many people at once.
+o	"Google Docs," "Google Sheets," "Google Slides," and "Google Forms" enable End Users to create, edit, share, collaborate, draw, export, and embed content on documents, spreadsheets, presentations and forms.
+o	"Google Drive" allows End Users to store, transfer, view, and share files.
+o	"Google Groups for Business" allows End Users to communicate using collaborative groups, and Administrators to configure features and services for different groups of End Users.
+o	"Google Jamboard" allows End Users to create, edit, share, collaborate, draw, export, and embed content within a digital whiteboard document.
+o	"Google Keep" enables End Users to create, edit, share, and collaborate on notes, lists, and drawings.
+o	"Google Meet" allows End Users to communicate in real time through small-scale and large capacity video meetings, including dial-out and dial-in calling (carrier fees may apply). Calling in Google Meet is provided by the entities listed at the following URL: https://workspace.google.com/terms/service-terms/meet-telephony/providers.html. Emergency calling is not supported for Google Meet.
+o	"Google SIP Link" allows Customers to connect their carrier service to Google Voice functionality through their own third party Session Border Controller and carrier trunk, separately from (and without the purchase of) Google Voice. Google SIP Link enables Customers to use Google Voice’s enhanced software features, while maintaining their existing carrier relationship and internal telephony routing equipment and solutions. Google SIP Link is only available in countries listed at https://support.google.com/a?p=sipcountries or a successor URL. Additional fees apply to use of Google SIP Link.
+o	"Google Sites" allows End Users to create a site and share it with a group of other End Users.
+o	"Google Tasks" enables End Users to create, edit and manage their tasks.
+o	"Google Vault" provides search and export capabilities, data archiving, retention and eDiscovery capabilities. Customers must continue to use/purchase Google Vault for Google to retain archived data.
+o	"Google Voice" is an Administrator-managed IP-based telephony service that allows Customers to assign and manage phone numbers for use by End Users and for End Users to make and receive calls using the assigned numbers. Google Voice is provided by Google Affiliates as described in the Google Voice Service Specific Terms and is only available in countries listed at https://support.google.com/a/answer/9206529 or a successor URL. Additional fees apply to use of Google Voice.
+o	"Google Workspace Assured Controls" allows Customers to geographically limit Google support actions related to their Customer Data.
+o	"Google Workspace Migrate" is an Administrator-managed on-premise service for migrating End User data to Customer’s Google Workspace Account.
+o	"Meet Global Dialing" supports expanded dial-in and dial-out calling in Google Meet video meetings.
+o	"Workspace Additional Storage" allows Customers to increase their total amount of pooled storage available.
+o	"Workspace Add-Ons" are, collectively, Duet AI for Google Workspace, Google SIP Link, Google Voice, Google Workspace Assured Controls, Workspace Additional Storage, Meet Global Dialing, and Enterprise Data Regions, as described further below.
+o	Search and intelligence features enable enhanced search and retrieval across all services, providing cross-product content search and automatic categorization of content for use in active services.
+•	Other Services
+o	"AppSheet" is a web-based platform, generally available at https://www.appsheet.com, that allows organizations to create and host applications without the need to write complicated or excessive code. For resellers, distributors, or suppliers of the Services, AppSheet is a Restricted Service under the Google Cloud Partner Advantage program.
+Workspace Add-Ons:
+Google Workspace Add-Ons can be added at an additional cost, unless indicated otherwise, to certain editions of Google Workspace, as provided in the Google Workspace Editions / SKUs table below.
+•	Google Voice and Google SIP Link Add-Ons
+o	"Voice Starter" is a version of Google Voice that allows only up to 10 End Users in a single country.
+o	"Voice Standard" is a version of Google Voice that supports any number of End Users in a single country and also includes Google SIP Link, deskphone compatibility, and multi-level auto-attendant features.
+o	"Voice Premier" is a version of Google Voice that supports any number of End Users in multiple countries and also includes Google SIP Link, deskphone compatibility, multi-level auto-attendant features, and advanced reporting functionality.
+o	"Google SIP Link Standard" is a version of Google SIP Link that supports any number of End Users in a single country and also includes deskphone compatibility and multi-level auto-attendant features.
+o	"Google SIP Link Premier" is a version of Google SIP Link that supports any number of End Users in multiple countries and also includes deskphone compatibility, multi-level auto-attendant features, and advanced reporting functionality.
+•	Meet Global Dialing
+o	"Meet Global Dialing" is a separate SKU that has no cost to subscribe, but usage is charged per minute.
+•	Workspace Additional Storage
+o	"Workspace Additional Storage" is a separate SKU that can be added to any edition of Google Workspace as long as that edition does not limit storage on a per-End User basis. Customers may increase their total amount of pooled storage available by 10TB for each Workspace Additional Storage subscription purchased. There is no limit to the number of Workspace Additional Storage subscriptions that may be purchased.
+Google Workspace Editions / SKUs:
+•	The table below lists each Google Workspace or G Suite edition, the Core Services that are included in each edition,the Workspace Add-ons that can be added to each Workspace edition and Other Services available.
+•	The “Main Core Services” (as used in the table below) are: Cloud Identity Services, Gmail, Google Calendar, Google Chat, Google Contacts, Google Docs, Google Drive, Google Forms, Google Groups for Business, Google Jamboard, Google Keep, Google Meet, Google Sheets, Google Sites, Google Slides, and Google Tasks.
+•	The “Archived User” offering for each Google Workspace or G Suite edition allows an organization to maintain End User Accounts for former End Users for Customer’s data archival purposes.
+•	Workspace Education and Nonprofits Requirements: All editions of Google Workspace for Education include Assignments, Classroom, and Chrome Sync as Core Services. Google Workspace for Nonprofits includes Classroom as a Core Service.
+o	"Assignments" allows End Users to distribute, collect, and grade student work.
+o	"Chrome Sync" allows End Users to synchronize bookmarks, history, passwords, and other settings across all the devices where they are signed in to Chrome.
+o	"Classroom" allows End Users to create and participate in classroom groups. Using Classroom, students can view assignments, submit homework, and receive grades from teachers.
+•	"AppSheet Core" is an enhanced version of AppSheet, as described at https://about.appsheet.com/pricing/, that can be added at an additional cost to any edition of Google Workspace.
+

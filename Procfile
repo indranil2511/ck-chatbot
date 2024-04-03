@@ -1,0 +1,1 @@
+web: gunicorn ck-chatapp.wsgi --log-file -
